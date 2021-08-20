@@ -8,4 +8,21 @@ Public quizzes are globally visible and can be attempted by any registered user 
 
 ### Screenshots
 
+![image](https://user-images.githubusercontent.com/63601038/130262312-8fe1b7d4-0eed-411e-b4d3-0bac56b4886f.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262330-6a926c4d-037a-4d28-bcf8-7a59e80aecaa.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262347-743a8657-68e1-4921-9dc7-6fec075db216.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262377-1350be87-54f4-4ab9-aa86-c907dbf4669a.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262509-424e35fc-3ce1-4259-a1a2-d75439089f57.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262399-e266d53a-0347-4c2c-9ac5-1cd7046f0d97.png)
+
+![image](https://user-images.githubusercontent.com/63601038/130262547-ce22bcb0-40e5-4e99-a685-f111b418ef9b.png)
+
+
+
+
 
