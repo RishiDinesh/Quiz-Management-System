@@ -1,0 +1,67 @@
+.no-response{
+  color:white;
+  position:absolute;
+  top:-10rem;
+  margin-left:2rem;
+  width:50%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 20%;
+}
+.no-attempt{
+  font-size: 30px;
+  color:white;
+  font-weight: bold;
+  padding-left:2rem;
+}
+.card{
+  margin: 2rem;
+  border-radius: 8px;
+  font-family: sans-serif;
+  width: 19rem;
+  color:white;
+  background-image: linear-gradient(#00479d,#001640);
+  height: 16rem;
+  box-shadow: 10px 10px 10px #000000;
+}
+
+.card-header{
+  border: none;
+  height: 2rem;
+  background: transparent;
+  text-align:center;
+}
+
+.auth{
+  background-image: url("https://images.unsplash.com/photo-1597600159211-d6c104f408d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1874&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background:
+}
+
+.attempt-header{
+  color: white;
+  padding: 2rem 0 0 2rem;
+}
+
+.quiz-details,.attempts-container{
+  color: white;
+  padding: 2rem;
+}
+
+.attempts-container a{
+  color: white;
+}
+
+#code-input{
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.mark,.feedback{
+  margin-left: 0.5rem;
+  border: 2px solid grey;
+  border-radius: 4px;
+  background-color: #d9f0ff;
+}
